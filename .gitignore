@@ -1,0 +1,15 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.env
+.env
+.venv
+*.zip
+.DS_Store
+.idea/
+.vscode/
+fluxo-blip-app/__pycache__/
+fluxo-blip-app/core/__pycache__/
